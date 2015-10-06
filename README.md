@@ -1,2 +1,2 @@
 # difi
-Directional WiFi Tool
+Directional WiFi Tool mainly to be used with Yaggi antennas.
